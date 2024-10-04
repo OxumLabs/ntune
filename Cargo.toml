@@ -6,6 +6,6 @@ panic = "abort"
 
 [package]
 name = "ntune"
-version = "0.0.5"
+version = "0.0.51"
 description = "The NTune Engine for Neit Language"
 license = "Apache-2.0"
