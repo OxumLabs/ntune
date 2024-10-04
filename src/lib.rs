@@ -179,7 +179,3 @@ fn gen_grm() -> Vec<Grammar> {
         },
     ]
 }
-
-fn main() {
-    println!("Woah! LIB ! LIBBB!!!");
-}
