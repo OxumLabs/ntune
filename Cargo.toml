@@ -1,7 +1,11 @@
+[dependencies]
+
+
+[profile.release]
+panic = "abort"
+
 [package]
 name = "ntune"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-regex = "1.11.0"
+version = "0.0.5"
+description = "The NTune Engine for Neit Language"
+license = "Apache 2.0"

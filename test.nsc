@@ -1,6 +1,0 @@
-def hi(){
-    print("hello")
-}
-let z = ""
-input(z)
-hi()

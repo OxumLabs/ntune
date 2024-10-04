@@ -1,7 +1,0 @@
-fn ~ def
-must ~ const
-may ~ let
-pub ~ public
-takein ~ input
-println ~ print
-print ~ echo
